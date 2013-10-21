@@ -1,0 +1,42 @@
+
+body {
+  background-color: green;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.9em;
+  margin: 18px;
+}
+
+table{
+  
+}
+table td{
+  width:150px;
+  text-align: center
+    
+}
+
+.suppr{
+  text-align: center
+}
+
+.suppr button{
+  color: red;
+}
+
+.modif{
+  text-align: center
+}
+.modif button{
+  color: blue;
+}
+
+fieldset{
+  width: 930px;
+  background-color: pink;
+  
+}
+.mail{
+  color: blue
+}
